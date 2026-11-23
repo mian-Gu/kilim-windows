@@ -1,0 +1,14 @@
+# Windows Rust build output
+windows/target/
+.tools/
+
+# Local secrets and environment files
+.env
+.env.*
+
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

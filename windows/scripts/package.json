@@ -1,0 +1,8 @@
+{
+  "name": "kilim-upstream-asset-tools",
+  "private": true,
+  "description": "Build-only Canvas2D renderer for faithful upstream procedural rug textures; not a Windows runtime dependency",
+  "devDependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  }
+}

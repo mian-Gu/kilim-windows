@@ -1,0 +1,97 @@
+{
+  "source_sha256": "e61f42c8a8978a4bcec89d8be79f8c794f55071021e6cb929ca564e07ffe4e55",
+  "width": 1536,
+  "height": 1032,
+  "patterns": [
+    {
+      "theme": "kashan",
+      "seed": "3026716864276998658",
+      "base_sha256": "4e07a176ed722b18938b206a0ca9d1f7f01e81ea7e34aa02a213bce3c0e66bee",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "isfahan",
+      "seed": "3026716864276998658",
+      "base_sha256": "8a8c6f86a4b9c8e3fb54167cb6f3d0e2bbd87ce4f662d9d0861215905141c639",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "tebriz",
+      "seed": "3026716864276998658",
+      "base_sha256": "4bc145ad76909a85e2f92368dbf434bc05667c6a209905b9c211317f4006d141",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "turkmen",
+      "seed": "3026716864276998658",
+      "base_sha256": "2781303002e966b4f078ebcf2710b3d90a390f802894ab8831552127974cf47f",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "kilim",
+      "seed": "3026716864276998658",
+      "base_sha256": "948f5bfd3cd909218f3cf5e39039cd8d47e98cd94c4899fda08d849a64e1b129",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "turk",
+      "seed": "3026716864276998658",
+      "base_sha256": "1e9cfc5be55ee65e982115a6da3e100ee59476da054d418807a618b975b7c890",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "kurd",
+      "seed": "3026716864276998658",
+      "base_sha256": "ff95e8c34670f76be2de4fb115bfeaa35eb0a17c0b5961281c99981a1addac88",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "egypt",
+      "seed": "3026716864276998658",
+      "base_sha256": "dca6465e52dff0049293f42bc81bdba6cedf4bec3e4008ccab92dc7049a5b103",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "khayamiya",
+      "seed": "3026716864276998658",
+      "base_sha256": "4f1374de58955112a416b5bc444dc3f81fffea09c98892d6b690a1edde9622c1",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "berber",
+      "seed": "6775083489800399912",
+      "base_sha256": "4ab744f298c6b985552a7fb16da4c8444348c05fc89ca800bbfa0d8f3bff40a8",
+      "fringe_sha256": "612a85e063f111fc4d6b8ef3d27660dac7ecbb5e82f95490d5ceb862d9bb725d"
+    },
+    {
+      "theme": "kazak",
+      "seed": "12706801230503347582",
+      "base_sha256": "a05dba444d451bd4a2a674af644ff8cc0de0519d4842cdb54f9c993526bd8d7c",
+      "fringe_sha256": "a681ce29e662727fd3a549ac4616f8e3c3d6fd7091033343455b18c44f57fe63"
+    },
+    {
+      "theme": "china",
+      "seed": "3026716864276998658",
+      "base_sha256": "3cf12cb8d01db743311a28ae7d32447036449dfcaf95205184a6826fda05f853",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "ayasofya",
+      "seed": "7606144698445290965",
+      "base_sha256": "50635657ea62615f6cc2d1ac8e090334f0b9cab8998301ceb61c9a11d9272052",
+      "fringe_sha256": "4b36e42fbcb2c87fb0905c285ae6db0e5982c1d21fc23825e3c72739bb0a5461"
+    },
+    {
+      "theme": "iznik",
+      "seed": "3026716864276998658",
+      "base_sha256": "10aa48b7fdd86afb0c6881eb51ce6bf4e1685f2169e0d65127636ab855f07cb0",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    },
+    {
+      "theme": "selcuklu",
+      "seed": "3026716864276998658",
+      "base_sha256": "a55f50245b2b585284713aa04900308b93975312252b5e34544ab86d959ef9cc",
+      "fringe_sha256": "037ac6f4665da85033a9a0d6786b823a3ca3be3fbbb535441d5ec7782cccfaaf"
+    }
+  ]
+}
