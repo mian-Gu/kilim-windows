@@ -8,8 +8,10 @@ Windows 原生版本已独立放入 `windows/`。功能对照和开发说明见 
 
 ## 已验证
 
-- 当前源码记录了 63 项 release 回归、clippy、release 构建及离屏渲染验证通过。
+- 2026-11-23：从原仓库复制项目级 `.tools/cargo` 与 `.tools/rustup` 到本目录，使用 Rust/Cargo 1.100.0，不涉及全局安装。63 项 release 测试全部通过，Clippy `-D warnings` 通过，release 构建通过，产物为 `windows/target/release/kilim-windows.exe`。
+- 2026-11-23：`fmt --check` 检出已有 Rust 格式差异，本次未执行全量格式化。
 - Explorer 桌面层级、透视穿透和隐藏后恢复有本机冒烟验证记录。
+- 当前源码此前已有离屏渲染验证记录。
 
 ## 待验收
 
